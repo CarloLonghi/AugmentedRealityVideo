@@ -4,7 +4,7 @@ Creation of an Augmented Reality video using a moving camera and SIFT feature de
 
 **Original Video:**
 
-![Output Video](./res/Multiple View.gif)
+![Output Video](./res/MultipleView.gif)
 
 
 **Result Video:**
